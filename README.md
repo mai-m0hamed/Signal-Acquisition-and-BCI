@@ -35,4 +35,8 @@ The EEG-Based Eye Movement Monitoring System processes raw EEG data to monitor a
 - Feature Extraction: Extract relevant features from preprocessed signals using provided scripts.
 - Model Training: Train machine learning models using extracted features and labeled data.
 - Real-time Classification: Deploy trained models to classify ongoing EEG signals in real-time.
-- Actuator Control: Implement actuator control mechanisms to translate model predictions into actions.in our case the actuator was an integrated LCD and alarm system that monitors the user's eye movements using EEG brain signals to enhance user alertness and prevent drowsiness by triggering an alarm if the user's eyes are closed for 10 seconds. 
+- Actuator Control: Implement actuator control mechanisms to translate model predictions into actions.in our case the actuator was an integrated LCD and alarm system that monitors the user's eye movements using EEG brain signals to enhance user alertness and prevent drowsiness by triggering an alarm if the user's eyes are closed for 10 seconds.
+![b2](https://github.com/mai-m0hamed/Signal-Acquisition-and-BCI/assets/115077795/1a46436c-220a-4929-bbe4-8ff3f8ad5f39)
+ 
+![WhatsApp Image 2024-06-07 at 19 29 31_bfbc716e](https://github.com/mai-m0hamed/Signal-Acquisition-and-BCI/assets/115077795/de56dba1-7961-4b83-9fb3-e51daa8b7d37)
+
